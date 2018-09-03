@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">EjemploMaestroDetalle</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Termas Solares -->
+    <string name="terma1_nombre">Terma Solar Plus de 80 litros de capacidad</string>
+    <string name="terma1_descripcion_corta">Precio  S/.1300.00</string>
+    <string name="terma1_descripcion_Larga">1. Las termas solares SOLARPLUS son originales.
+                                            2. Las capacidades se otorgan en medidas reales.
+                                            3. Todos los equipos son duales, se pueden incorporar resistencia eléctrica a
+                                               consideración del cliente, incluye la resistencia, más no su instalación.
+                                            4. Los precios incluyen la entrega a domicilio y la instalación gratuita para todo
+                                               el Valle del Mantaro.
+                                            5. Para otras provincias se deberá adicionar entre S/. 200.00 y S/. 250.00 según la
+                                               distancia, por razones de traslado del equipo, la instalación es gratuita.
+
+
+                                                Visite nuestra Página Web para seguir comprando
+                                                            wwww.globalgreenperu.com</string>
+
+
+    <string name="terma2_nombre">Terma SunEarth de 250 litros de capacidad</string>
+    <string name="terma2_descripcion_corta">Precio  S/.2300.00</string>
+    <string name="terma2_descripcion_Larga">1. Las termas solares SOLARPLUS son originales.
+                                            2. Las capacidades se otorgan en medidas reales.
+                                            3. Todos los equipos son duales, se pueden incorporar resistencia eléctrica a
+                                               consideración del cliente, incluye la resistencia, más no su instalación.
+                                            4. Los precios incluyen la entrega a domicilio y la instalación gratuita para todo
+                                               el Valle del Mantaro.
+                                            5. Para otras provincias se deberá adicionar entre S/. 200.00 y S/. 250.00 según la
+                                               distancia, por razones de traslado del equipo, la instalación es gratuita.
+
+
+                                                    Visite nuestra Página Web para seguir comprando
+                                                            wwww.globalgreenperu.com</string>
+
+
+    <string name="terma3_nombre">Terma Suntask de 120 litros</string>
+    <string name="terma3_descripcion_corta">Precio  S/.1850.00</string>
+    <string name="terma3_descripcion_Larga">1. Las termas solares SOLARPLUS son originales.
+                                            2. Las capacidades se otorgan en medidas reales.
+                                            3. Todos los equipos son duales, se pueden incorporar resistencia eléctrica a
+                                               consideración del cliente, incluye la resistencia, más no su instalación.
+                                            4. Los precios incluyen la entrega a domicilio y la instalación gratuita para todo
+                                               el Valle del Mantaro.
+                                            5. Para otras provincias se deberá adicionar entre S/. 200.00 y S/. 250.00 según la
+                                               distancia, por razones de traslado del equipo, la instalación es gratuita.
+
+                                            Visite nuestra Página Web para seguir comprando
+                                                            wwww.globalgreenperu.com</string>
+
+    <!-- Paneles Solares -->
+    <string name="panel1_nombre">Panel Solar de 200W</string>
+    <string name="panel1_descripcion_corta">Precio  S/.2350.00</string>
+    <string name="panel1_descripcion_Larga">Incluyen:
+                                             Panel solar con cableado vulcanizado de 3 m para conexión al controlador.
+                                             Controlador / inversión según capacidad del panel a trabajar, los cuales incluyen un puerto USB
+                                               de 5V para carga de equipos inteligentes (Celulares, Tabletas, Cámaras fotográficas, Radio MP3,
+                                               entre otro gadgets) y salida de 12V para iluminación de sistemas especiales de alto ahorro.
+                                             Acumulador de Gel, libre de mantenimiento según capacidad del panel solar.
+                                             Cables y accesorios básicos para las conexiones generales del sistema.
+
+                                                    Visite nuestra Página Web para seguir comprando
+                                                            wwww.globalgreenperu.com</string>
+
+
+    <string name="panel2_nombre">Panel Solar de 100W</string>
+    <string name="panel2_descripcion_corta">Precio  S/.1250.00</string>
+    <string name="panel2_descripcion_Larga">Incluyen:
+                                             Panel solar con cableado vulcanizado de 3 m para conexión al controlador.
+                                             Controlador / inversión según capacidad del panel a trabajar, los cuales incluyen un puerto USB
+                                               de 5V para carga de equipos inteligentes (Celulares, Tabletas, Cámaras fotográficas, Radio MP3,
+                                               entre otro gadgets) y salida de 12V para iluminación de sistemas especiales de alto ahorro.
+                                             Acumulador de Gel, libre de mantenimiento según capacidad del panel solar.
+                                             Cables y accesorios básicos para las conexiones generales del sistema.
+
+
+                                                    Visite nuestra Página Web para seguir comprando
+                                                            wwww.globalgreenperu.com</string>
+
+
+    <string name="panel3_nombre">Panel Solar de 30W</string>
+    <string name="panel3_descripcion_corta">Precio  S/.550.00</string>
+    <string name="panel3_descripcion_Larga">Incluyen:
+                                             Panel solar con cableado vulcanizado de 3 m para conexión al controlador.
+                                             Controlador / inversión según capacidad del panel a trabajar, los cuales incluyen un puerto USB
+                                               de 5V para carga de equipos inteligentes (Celulares, Tabletas, Cámaras fotográficas, Radio MP3,
+                                               entre otro gadgets) y salida de 12V para iluminación de sistemas especiales de alto ahorro.
+                                             Acumulador de Gel, libre de mantenimiento según capacidad del panel solar.
+                                             Cables y accesorios básicos para las conexiones generales del sistema.
+
+                                                Visite nuestra Página Web para seguir comprando
+                                                            wwww.globalgreenperu.com</string>
+
+    <!-- Kits Solares -->
+    <string name="kitsolar1_nombre">Kit Solar HB-90 de 3.5W Con radio MP3</string>
+    <string name="kitsolar1_descripcion_corta">Precio  S/.140.00</string>
+    <string name="kitsolar1_descripcion_Larga">El Kit HB-90 es un equipos de uso doméstico, que
+                                               incluye 04 puntos de iluminación (02 focos y 01 linterna
+                                               con doble fuente de luz) el cual no requiere de cableado
+                                               ni interruptores ya que los incluye, dispone de Radio
+                                               MP3, con un puerto USB para carga de equipos
+                                               celulares, tabletas, equipos MP3 y cámaras fotográficas
+                                               pequeñas, el equipo puede ser cargado por medio solar
+                                               y también eléctrico, con un uso promedio de hasta 6
+                                               horas de iluminación diario por carga completa.
+                                               Incluye:
+                                                Panel solar de 3.5W.
+                                                02 Focos LED de 3W con cableado de 3 y 5 m
+                                               cada uno con interruptores incorporados
+                                                Linterna de mano con dos fuentes de luz
+                                                Radio MP3 con puerto USB con cableado de diferentes terminales.
+
+
+                                                    Visite nuestra Página Web para seguir comprando
+                                                            wwww.globalgreenperu.com</string>
+
+</resources>
